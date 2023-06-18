@@ -1,4 +1,4 @@
-# 강의노트
+# Note
 <!--
 
 **Here are some ideas to get you started:**

@@ -1,5 +1,4 @@
-## Hi there 👋
- # 강의노트
+# 강의노트
 <!--
 
 **Here are some ideas to get you started:**
